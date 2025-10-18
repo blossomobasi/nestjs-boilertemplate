@@ -1,7 +1,7 @@
 {
-    "name": "nestjs-boilertemplate",
+    "name": "nestjs-boilerplate",
     "version": "0.0.1",
-    "description": "Nest.js boilertemplate",
+    "description": "Nest.js boilerplate",
     "author": "John Olatubosun <toluolatubosun@gmail.com>",
     "license": "MIT",
     "scripts": {
